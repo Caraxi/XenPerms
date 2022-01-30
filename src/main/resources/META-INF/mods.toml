@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+[[mods]]
+modId="xenperms" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="XenPerms" #mandatory
+description='''
+CraftAU Ranks Mod
+'''
